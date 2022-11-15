@@ -11,7 +11,7 @@ Get started today at [Kinsta.com](https://kinsta.com)
 ## Learn more about our products
 - [Application hosting](https://kinsta.com/application-hosting/)
 - [Database hosting](https://kinsta.com/database-hosting/)
-- [WordPress hosting](https://kinsta.com/wordpress-hosting/?plan=visits-business1&interval=month)
+- [WordPress hosting](https://kinsta.com/wordpress-hosting/)
 
 ## Talk with us
 If you want to talk with us:
