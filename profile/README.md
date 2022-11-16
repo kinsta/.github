@@ -12,6 +12,7 @@ Get started today at [Kinsta.com](https://kinsta.com)
 - [Application hosting](https://kinsta.com/application-hosting/)
 - [Database hosting](https://kinsta.com/database-hosting/)
 - [WordPress hosting](https://kinsta.com/wordpress-hosting/)
+- [DevKinsta](https://kinsta.com/devkinsta/)
 
 ## Talk with us
 If you want to talk with us:
