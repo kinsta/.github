@@ -9,9 +9,9 @@ Our hosting is for all types of projects, from small blogs to Fortune 500 custom
 Get started today at [Kinsta.com](https://kinsta.com)
 
 ## Learn more about our products
-- [Application hosting](https://kinsta.com/application-hosting/) (See [Documentation](https://kinsta.com/help/application-hosting/))
-- [Database hosting](https://kinsta.com/database-hosting/) (See [Documentation](https://kinsta.com/help/database-hosting/))
-- [WordPress hosting](https://kinsta.com/wordpress-hosting/) (See [Documentation](https://kinsta.com/help/wordpress-hosting/))
+- [Application hosting](https://kinsta.com/application-hosting/) (See [Documentation](https://kinsta.com/docs/application-hosting/))
+- [Database hosting](https://kinsta.com/database-hosting/) (See [Documentation](https://kinsta.com/docs/database-hosting/))
+- [WordPress hosting](https://kinsta.com/wordpress-hosting/) (See [Documentation](https://kinsta.com/docs/wordpress-hosting/))
 - [DevKinsta](https://kinsta.com/devkinsta/) (See [Documentation](https://kinsta.com/knowledgebase/devkinsta/))
 
 ## Talk with us
