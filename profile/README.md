@@ -13,7 +13,7 @@ Get started today at [Kinsta.com](https://kinsta.com)
 - [Database hosting](https://kinsta.com/database-hosting/) (See [Documentation](https://kinsta.com/docs/database-hosting/))
 - [WordPress hosting](https://kinsta.com/wordpress-hosting/) (See [Documentation](https://kinsta.com/docs/wordpress-hosting/))
 - [DevKinsta](https://kinsta.com/devkinsta/) (See [Documentation](https://kinsta.com/knowledgebase/devkinsta/))
-- [Kinsta Academy](https://github.com/kinsta-academy)
+- [Kinsta Academy](https://kinsta.com/academy/) (See our [official GitHub Repository](https://github.com/kinsta-academy))
 
 ## Talk with us
 If you want to talk with us:
