@@ -1,4 +1,5 @@
-[![The Best Cloud Platform form Your Next Web Project](https://user-images.githubusercontent.com/2342458/201701150-5f80b68d-ba57-4076-9b17-2de491746c54.png)](https://kinsta.com)
+[![The Best Cloud Platform form Your Next Web Project](https://user-images.githubusercontent.com/2342458/220064136-2c61e878-eb41-4c77-a5f5-482dbebeac2f.png)](https://kinsta.com)
+
 
 # We are Kinsta
 
