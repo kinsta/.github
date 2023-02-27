@@ -9,6 +9,8 @@ Our hosting is for all types of projects, from small blogs to Fortune 500 custom
 
 Get started today at [Kinsta.com](https://kinsta.com)
 
+https://user-images.githubusercontent.com/2342458/221495693-bfc4b030-6f20-4c27-b645-c141201e534a.mp4
+
 ## Learn more about our products
 - [Application hosting](https://kinsta.com/application-hosting/) (See [Documentation](https://kinsta.com/docs/application-hosting/))
 - [Database hosting](https://kinsta.com/database-hosting/) (See [Documentation](https://kinsta.com/docs/database-hosting/))
