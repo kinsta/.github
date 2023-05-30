@@ -15,6 +15,7 @@ https://user-images.githubusercontent.com/2342458/221495693-bfc4b030-6f20-4c27-b
 - [Application hosting](https://kinsta.com/application-hosting/) (See [Documentation](https://kinsta.com/docs/application-hosting/))
 - [Database hosting](https://kinsta.com/database-hosting/) (See [Documentation](https://kinsta.com/docs/database-hosting/))
 - [WordPress hosting](https://kinsta.com/wordpress-hosting/) (See [Documentation](https://kinsta.com/docs/wordpress-hosting/))
+- [Kinsta API](https://api-docs.kinsta.com/)
 - [DevKinsta](https://kinsta.com/devkinsta/) (See [Documentation](https://kinsta.com/knowledgebase/devkinsta/))
 - [Kinsta Academy](https://kinsta.com/academy/) (See the [official GitHub Repository](https://github.com/kinsta-academy))
 
