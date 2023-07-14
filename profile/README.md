@@ -23,5 +23,6 @@ https://user-images.githubusercontent.com/2342458/221495693-bfc4b030-6f20-4c27-b
 ## Talk with us
 If you want to talk with us:
 - Join our [Discord channel](https://discord.gg/vjRPMhFaBA)
+- Join our [Community Forum](https://community.kinsta.com/) 🆕
 - Contact our amazing [support](https://kinsta.com/kinsta-support/)
 - Reach us on [Twitter](https://twitter.com/kinsta)
