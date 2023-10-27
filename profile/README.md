@@ -5,11 +5,11 @@
 
 Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. You can focus on coding and building, and we'll take care of deployments with fast, scalable hosting.
 
-Connect with your GitHub, BitBucket, or GitLab repository to easily deploy and automate projects. Benefit from features like static site hosting, persistent storage, and Kinsta’s REST API. Our Database Hosting supports PostgreSQL, MariaDB, Redis, and MySQL.
+Connect with your GitHub, BitBucket, or GitLab repository to easily deploy and automate projects. Benefit from features like persistent storage, Kinsta’s REST API, and analytics. Our Database Hosting supports PostgreSQL, MariaDB, Redis, and MySQL.
 
 Kinsta offers 24/7 support via our chat system, which is always one click away in [MyKinsta](https://my.kinsta.com/) for customers with a paid plan or service.
 
-If you only have a Static Site Hosting account, we have detailed [Static Site Hosting documentation](https://kinsta.com/docs/static-site-hosting/) available. You can also connect with developers and knowledgeable community members in the [Kinsta Community](https://community.kinsta.com/c/static-sites/22) forum.
+If you only have a Static Site Hosting plan, we have detailed [Static Site Hosting documentation](https://kinsta.com/docs/static-site-hosting/) available. You can also connect with developers and knowledgeable community members in the [Kinsta Community](https://community.kinsta.com/c/static-sites/22) forum.
 
 
 ▶️ [Sign up for free, no credit card required](https://kinsta.com/signup/)
