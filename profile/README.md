@@ -1,37 +1,19 @@
-[![The Best Cloud Platform form Your Next Web Project](https://github.com/kinsta/.github/assets/20532589/d10ba8f0-af63-4003-ae87-34594815a00c)](https://kinsta.com)
+[![Simply better hosting for WordPress.](https://github.com/kinsta/.github/assets/20532589/d10ba8f0-af63-4003-ae87-34594815a00c)](https://kinsta.com)
 
 # About Kinsta
 
-Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it easier for you to share your web projects with your users. You can focus on coding and building, and we'll take care of deployments with fast, scalable hosting.
+Kinsta offers managed hosting for WordPress, built for agencies, businesses, and e-commerce stores that demand speed and reliability. Powered by enterprise-grade infrastructure, every plan includes Cloudflare Enterprise.
 
-Connect with your GitHub, BitBucket, or GitLab repository to easily deploy and automate projects. Benefit from features like persistent storage, Kinsta’s REST API, and analytics. Our Database Hosting supports PostgreSQL, MariaDB, Redis, and MySQL.
+Our dashboard ([MyKinsta](https://kinsta.com/mykinsta/)) gives you staging environments, SSH access, Git integration, a REST API, built-in APM, and server-level caching. Support is 24/7 via live chat, staffed by WordPress engineers, one click away inside the dashboard. 
 
-Kinsta offers 24/7 support via our chat system, which is always one click away in [MyKinsta](https://my.kinsta.com/) for customers with a paid plan or service.
+[Get started free](https://kinsta.com/signup/wp/) or [refer a developer and earn hosting credits](https://kinsta.com/docs/service-information/referrals-faq/).
 
-If you only have a Static Site Hosting plan, we have detailed [Static Site Hosting documentation](https://kinsta.com/docs/static-site-hosting/) available. You can also connect with developers and knowledgeable community members in the [Kinsta Community](https://community.kinsta.com/c/static-sites/22) forum.
-
-
-▶️ [Sign up for free, no credit card required](https://kinsta.com/signup/)
-
-▶️ [Refer other developers for hosting credits](https://kinsta.com/feature-updates/referrals/)
-
-<details>
-<summary><strong>Learn more about Application Hosting</strong> [click to expand]</summary>
-  
-https://user-images.githubusercontent.com/2342458/221495693-bfc4b030-6f20-4c27-b645-c141201e534a.mp4
-
-</details>
-<details>
-<summary><strong>Learn more about Static Site Hosting</strong> [click to expand]</summary>  
-
-https://github.com/kinsta/.github/assets/2342458/7c6a704a-89e7-4f56-8b51-33f700baff70
-
-</details>
+Looking for Application, Database, or Static Site Hosting? That's now at [Sevalla](https://sevalla.com), Kinsta's PaaS platform.
 
 ## Learn more
-- [Application hosting](https://kinsta.com/application-hosting/) (See [Documentation](https://kinsta.com/docs/application-hosting/))
-- [Database hosting](https://kinsta.com/database-hosting/) (See [Documentation](https://kinsta.com/docs/database-hosting/))
-- [WordPress hosting](https://kinsta.com/wordpress-hosting/) (See [Documentation](https://kinsta.com/docs/wordpress-hosting/))
-- [Static Site Hosting](https://kinsta.com/static-site-hosting/) (See [Documentation](https://kinsta.com/docs/static-site-hosting/)) 🆕
-- [Quick Start Repos](https://github.com/orgs/kinsta/repositories?q=&type=template&language=&sort=) | [Quick Start Examples](https://kinsta.com/docs/application-hosting/quick-start-examples/)
-- Join our [Community Forum](https://community.kinsta.com/) 🆕
+
+- [WordPress Hosting](https://kinsta.com/wordpress-hosting/) — [Docs](https://kinsta.com/docs/wordpress-hosting/)
+- [MyKinsta](https://my.kinsta.com/)
+- [Kinsta API](https://kinsta.com/docs/api/)
+- [Community Forum](https://community.kinsta.com/)
+- [Sevalla](https://sevalla.com)
